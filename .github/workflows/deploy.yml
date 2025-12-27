@@ -26,9 +26,6 @@ jobs:
         with:
           node-version: 18.x
 
-      - name: Update npm 🚀
-        run: npm install -g npm@latest
-
       - name: Install and Build 🔧 # Build the Project
         working-directory: developerFolio-master
         run: |
