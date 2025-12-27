@@ -30,12 +30,13 @@ jobs:
         run: npm install -g npm@latest
 
       - name: Install and Build 🔧 # Build the Project
+        working-directory: developerFolio-master
         run: |
-          npm install
+          npm ci
           npm run build
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # fix spacing
           BRANCH: gh-pages
-          FOLDER: build
+          FOLDER: developerFolio-master/build
