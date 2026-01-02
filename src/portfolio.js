@@ -26,7 +26,7 @@ const greeting = {
     "A high school student specializing in Information Technology, passionate about AI and software development, with experience in data engineering, competitive programming, and building real-world tech projects."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1aRbsv-_WTdTLBVVPZ30-ZJhT4b9Eidzr/view", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -250,7 +250,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://drive.google.com/file/d/13Gvy3Imu5a14TkTAMDLeFuDFbmMH5HWV/view"
         },
       ]
     },
@@ -263,7 +263,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://drive.google.com/file/d/1eXZt_XrrYeqVg16XKgkPmdKCkTaHbMBx/view"
         }
       ]
     },
@@ -273,7 +273,7 @@ const achievementSection = {
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+        {name: "Certification", url: "https://drive.google.com/file/d/1v0C4Nho8nK8nRNnW0v5WKFE_nfzn30Dj/view"},
       ]
     },
     {
@@ -282,7 +282,7 @@ const achievementSection = {
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+        {name: "Certification", url: "https://drive.google.com/file/d/1qTC9mAxAgCeNKSu70e3VQugMfrDONLNX/view"},
       ]
     },
     {
@@ -291,7 +291,7 @@ const achievementSection = {
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+        {name: "Result", url: "https://drive.google.com/file/d/1_utZv2IQtimPNNrJj16i9Ep5eBDZfDE5/view"},
       ]
     },
     {
@@ -300,7 +300,7 @@ const achievementSection = {
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+        {name: "Certification", url: "https://www.coursera.org/account/accomplishments/verify/NW3Y9DN2RJQ4"},
       ]
     },
     {
@@ -309,7 +309,7 @@ const achievementSection = {
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+        {name: "Certification", url: "https://www.coursera.org/account/accomplishments/verify/NKUZUAX3WE1U"},
       ]
     },
     {
@@ -318,7 +318,7 @@ const achievementSection = {
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+        {name: "Certification", url: "https://www.coursera.org/account/accomplishments/verify/DJWEDJ2X6XQ9"},
       ]
     },
     {
@@ -327,7 +327,7 @@ const achievementSection = {
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+        {name: "Certification", url: "https://www.coursera.org/account/accomplishments/verify/Y4RQU54HBNUW"},
       ]
     },
   ],
