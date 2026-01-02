@@ -159,7 +159,7 @@ const workExperiences = {
     {
       role: "Co-author, Research Team Lead",
       company: "Vietnam Journal of Education",
-      //companylogo: require("./assets/images/tanphatg.avif"),
+      companylogo: require("./assets/images/journal.jpg"),
       date: "Paper published on July 2025",
       descBullets: [
         "Publication Title: Application of Artificial Intelligence in Detecting Food – Unsafe Vegetables",
@@ -245,7 +245,7 @@ const achievementSection = {
       title: "Gold Medal",
       subtitle:
         "INNOVERSE Invention & Innovation Expo",
-      //image: require("./assets/images/codeInLogo.webp"),
+      image: require("./assets/images/innoverseexpo.jpg"),
       //imageAlt: "Google Code-In Logo",
       footerLink: [
         {
@@ -258,8 +258,8 @@ const achievementSection = {
       title: "3rd Prize",
       subtitle:
         "Provincial Young Informatics Competition",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+      image: require("./assets/images/tht.jpg"),
+      //imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
           name: "Certification",
@@ -270,8 +270,8 @@ const achievementSection = {
     {
       title: "3rd Prize",
       subtitle: "Vietnam Student Olympiad in Informatics (Provincial)",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      image: require("./assets/images/hsgtinh.jfif"),
+      //imageAlt: "PWA Logo",
       footerLink: [
         {name: "Certification", url: "https://drive.google.com/file/d/1v0C4Nho8nK8nRNnW0v5WKFE_nfzn30Dj/view"},
       ]
@@ -279,8 +279,8 @@ const achievementSection = {
     {
       title: "Consolation Prize",
       subtitle: "Ha Noi Innovation Contest for Youth and Children",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      image: require("./assets/images/hn.jpg"),
+      //imageAlt: "PWA Logo",
       footerLink: [
         {name: "Certification", url: "https://drive.google.com/file/d/1qTC9mAxAgCeNKSu70e3VQugMfrDONLNX/view"},
       ]
@@ -288,8 +288,8 @@ const achievementSection = {
     {
       title: "Ranked 16th",
       subtitle: "Quang Ninh Informatics National Team Selection",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      image: require("./assets/images/tst.jpeg"),
+      //imageAlt: "PWA Logo",
       footerLink: [
         {name: "Result", url: "https://drive.google.com/file/d/1_utZv2IQtimPNNrJj16i9Ep5eBDZfDE5/view"},
       ]
@@ -297,7 +297,7 @@ const achievementSection = {
     {
       title: "Certificate: Python Basics",
       subtitle: "University of Michigan",
-      image: require("./assets/images/pwaLogo.webp"),
+      image: require("./assets/images/michigan.png"),
       imageAlt: "PWA Logo",
       footerLink: [
         {name: "Certification", url: "https://www.coursera.org/account/accomplishments/verify/NW3Y9DN2RJQ4"},
@@ -306,7 +306,7 @@ const achievementSection = {
     {
       title: "Certificate: Python for Data Analysis: Pandas & NumPy",
       subtitle: "Coursera Project Network",
-      image: require("./assets/images/pwaLogo.webp"),
+      image: require("./assets/images/coursera.png"),
       imageAlt: "PWA Logo",
       footerLink: [
         {name: "Certification", url: "https://www.coursera.org/account/accomplishments/verify/NKUZUAX3WE1U"},
@@ -315,7 +315,7 @@ const achievementSection = {
     {
       title: "Certificate: ChatGPT Advanced Data Analysis",
       subtitle: "Vanderbilt University",
-      image: require("./assets/images/pwaLogo.webp"),
+      image: require("./assets/images/vanderbilt.png"),
       imageAlt: "PWA Logo",
       footerLink: [
         {name: "Certification", url: "https://www.coursera.org/account/accomplishments/verify/DJWEDJ2X6XQ9"},
@@ -324,7 +324,7 @@ const achievementSection = {
     {
       title: "Certificate: Prompt Engineering for ChatGPT",
       subtitle: "Vanderbilt University",
-      image: require("./assets/images/pwaLogo.webp"),
+      image: require("./assets/images/vanderbilt.png"),
       imageAlt: "PWA Logo",
       footerLink: [
         {name: "Certification", url: "https://www.coursera.org/account/accomplishments/verify/Y4RQU54HBNUW"},
