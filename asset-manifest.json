@@ -1,26 +1,30 @@
 {
   "files": {
     "main.css": "/hoatrong-portfolio/static/css/main.9913922b.css",
-    "main.js": "/hoatrong-portfolio/static/js/main.bafcf7d5.js",
+    "main.js": "/hoatrong-portfolio/static/js/main.98d5559b.js",
     "static/css/64.bba8fa55.chunk.css": "/hoatrong-portfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.8281b69b.chunk.js": "/hoatrong-portfolio/static/js/64.8281b69b.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/hoatrong-portfolio/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.e0de4229.chunk.js": "/hoatrong-portfolio/static/js/769.e0de4229.chunk.js",
+    "static/media/tht.jpg": "/hoatrong-portfolio/static/media/tht.22fe802eecb6bd93af65.jpg",
+    "static/media/hn.jpg": "/hoatrong-portfolio/static/media/hn.8f432424c3b8e391fe70.jpg",
     "static/media/Montserrat-Regular.ttf": "/hoatrong-portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/hoatrong-portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/innoverseexpo.jpg": "/hoatrong-portfolio/static/media/innoverseexpo.752c6918531a4445377c.jpg",
+    "static/media/tst.jpeg": "/hoatrong-portfolio/static/media/tst.5490b24c876b5315042d.jpeg",
     "static/media/manOnTable.svg": "/hoatrong-portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/hoatrong-portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/hoatrong-portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
-    "static/media/googleAssistantLogo.webp": "/hoatrong-portfolio/static/media/googleAssistantLogo.f720c71652579588524a.webp",
+    "static/media/journal.jpg": "/hoatrong-portfolio/static/media/journal.6087c7a60a1b57fe099d.jpg",
+    "static/media/hsgtinh.jfif": "/hoatrong-portfolio/static/media/hsgtinh.7003aeb5de572a79ec82.jfif",
     "static/media/CHLlogo.png": "/hoatrong-portfolio/static/media/CHLlogo.5d3d9bd2d9a1c3df673d.png",
     "static/media/skill.svg": "/hoatrong-portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "static/media/resume.pdf": "/hoatrong-portfolio/static/media/resume.f0f733dd3cd732b39262.pdf",
-    "static/media/pwaLogo.webp": "/hoatrong-portfolio/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
     "static/media/tanphatg.avif": "/hoatrong-portfolio/static/media/tanphatg.abebf4f95119b8adbe04.avif",
     "index.html": "/hoatrong-portfolio/index.html",
     "static/media/talksCardBack.svg": "/hoatrong-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.9913922b.css.map": "/hoatrong-portfolio/static/css/main.9913922b.css.map",
-    "main.bafcf7d5.js.map": "/hoatrong-portfolio/static/js/main.bafcf7d5.js.map",
+    "main.98d5559b.js.map": "/hoatrong-portfolio/static/js/main.98d5559b.js.map",
     "64.bba8fa55.chunk.css.map": "/hoatrong-portfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.8281b69b.chunk.js.map": "/hoatrong-portfolio/static/js/64.8281b69b.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/hoatrong-portfolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -28,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.9913922b.css",
-    "static/js/main.bafcf7d5.js"
+    "static/js/main.98d5559b.js"
   ]
 }
