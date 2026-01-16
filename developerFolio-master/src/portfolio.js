@@ -26,7 +26,7 @@ const greeting = {
     "A high school student specializing in Information Technology, passionate about AI and software development, with experience in data engineering, competitive programming, and building real-world tech projects."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1aRbsv-_WTdTLBVVPZ30-ZJhT4b9Eidzr/view", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1DbKmTx_IwJU0mSjPAISnAyy543bQsGhy/view", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
