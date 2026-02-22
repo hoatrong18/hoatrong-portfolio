@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hoatrong-portfolio/static/css/main.9913922b.css",
-    "main.js": "/hoatrong-portfolio/static/js/main.dc1573c8.js",
+    "main.js": "/hoatrong-portfolio/static/js/main.70719b5d.js",
     "static/css/64.bba8fa55.chunk.css": "/hoatrong-portfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.8281b69b.chunk.js": "/hoatrong-portfolio/static/js/64.8281b69b.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/hoatrong-portfolio/static/css/769.b3cbb36b.chunk.css",
@@ -24,7 +24,7 @@
     "index.html": "/hoatrong-portfolio/index.html",
     "static/media/talksCardBack.svg": "/hoatrong-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.9913922b.css.map": "/hoatrong-portfolio/static/css/main.9913922b.css.map",
-    "main.dc1573c8.js.map": "/hoatrong-portfolio/static/js/main.dc1573c8.js.map",
+    "main.70719b5d.js.map": "/hoatrong-portfolio/static/js/main.70719b5d.js.map",
     "64.bba8fa55.chunk.css.map": "/hoatrong-portfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.8281b69b.chunk.js.map": "/hoatrong-portfolio/static/js/64.8281b69b.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/hoatrong-portfolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -32,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.9913922b.css",
-    "static/js/main.dc1573c8.js"
+    "static/js/main.70719b5d.js"
   ]
 }
